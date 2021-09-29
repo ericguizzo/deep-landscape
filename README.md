@@ -1,4 +1,7 @@
 # DeepLandscape: Adversarial Modeling of Landscape Videos
+<a href="https://replicate.ai/saic-mdal/deep-landscape"><img src="https://img.shields.io/static/v1?label=Replicate&message=Demo and Docker Image&color=darkgreen" height=20></a>
+
+
 Implementation of DeepLandscape: Adversarial Modeling of Landscape Video in PyTorch
 ## [Project Page](https://saic-mdal.github.io/deep-landscape/) | [Video Explanation](https://youtu.be/mnYIx9DwVlE) | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf) | [Teaser [1min]](https://youtu.be/2CoQRf5qXWY)
 ---
